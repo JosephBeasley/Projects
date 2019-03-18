@@ -1,0 +1,1 @@
+the code requests a password at launch. it takes the value and units to convert to and from. it then uses a million switch case statements to figure out the conversion to use. it then comverts and prints the value converted to.

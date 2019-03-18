@@ -1,0 +1,20 @@
+Request password.
+User choose which function(roman to decimal, Decimal to roman)
+
+Decimal to Roman:
+get user input of decimal value
+start with largest number first(C)
+then L
+then X
+then V
+then I
+subtract each value from inputed number along the way
+order roman numerals apropriately.
+display value
+
+Roman to Decial:
+get user input
+start with first number in array. 
+check next number dude to stupid roman numeral math
+as you itterate through the array, add each value to grand total. 
+display total.

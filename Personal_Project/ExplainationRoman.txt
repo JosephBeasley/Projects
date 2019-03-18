@@ -1,0 +1,4 @@
+The program requests a password then continues through the program.
+the user then chooses what conversion they want(roman to decimal and then decimal to roman)
+each one has its own function. the user inputs a number 100 or less and the program then 
+converts that value to the proper value. the end value is then displayed to the user.

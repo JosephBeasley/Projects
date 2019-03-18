@@ -1,0 +1,13 @@
+Declare variables
+ask for password
+check password
+prompt user for number value
+prompt for unit of measurement
+save to variables
+prompt user for unit to convert to
+save to variable
+use if statements to find what kind of conversion (weight, length, or volume)
+switch/case to decide what conversion
+convert
+print conversion
+ezpz
